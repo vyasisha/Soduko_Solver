@@ -44,17 +44,17 @@ Python 3.x
 
 ## How to Run
 Clone the repository to your local machine:
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/sudoku-solver.git
+```
 Navigate to the project directory:
-bash
-Copy code
+```bash
 cd sudoku-solver
+```
 Run the Python script:
-bash
-Copy code
+```bash
 python sudoku_solver.py
+```
 
 ## Contribution
 Contributions are welcome! If you'd like to contribute to this project, please create a pull request with your proposed changes.
